@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm from dhaka, Bangladesh.<br><br>- 🔭 I’m working as a junior front-end-developer<br>- 📚 I'm currently learning advance web technologies.<br>- ⚡ In my free time I would love to play outdoor games.</p>
+<p align="left">I'm from dhaka, Bangladesh and i'm a passionated web developer and huge passion to write code.<br><br>- 🔭 I’m working as a junior front-end-developer<br>- 📚 I'm currently learning advance web technologies.<br>- ⚡ In my free time I would love to play outdoor games.</p>
 
 ###
 
