@@ -22,6 +22,7 @@
 ###
 
 <h1 align="center">hey, I'm Ifat 🖥️</h1>
+<h2 align="center">Front End Developer</h2>
 
 ###
 
