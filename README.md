@@ -70,4 +70,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifuvhai)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ifuvhai&show_icons=true&count_private=true) 
